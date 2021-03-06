@@ -14,6 +14,6 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
  - Something new everyday!
 
 ### :mortar_board: Graduating:
-Bachelor in Computer Science, in UniRuy (Centro Universitpario Ruy Barbosa)!
+Bachelor in Computer Science, in UniRuy (Centro Universitário Ruy Barbosa)!
 
 ## :speech_balloon: Let's talk...
