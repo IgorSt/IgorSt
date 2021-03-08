@@ -10,7 +10,7 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
  - Using ![Java](https://img.shields.io/badge/-JAVA-red?style=plastic&logo=java) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)  ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) ![enter image description here](https://img.shields.io/badge/-gitflow-05a698?&logo=git) ![GitKraken](https://img.shields.io/badge/-GitKraken-black?style=plastic&logo=gitkraken);
  
  ### :books: Learning:
- - ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin), android animations, CI/CD, UI testing;
+ - ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin);
  - Something new everyday!
 
 ### :mortar_board: Graduating:
