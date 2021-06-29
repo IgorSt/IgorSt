@@ -6,8 +6,11 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
 
 ### :bar_chart: working:
 
- - At [POS Controle](https://www.linkedin.com/company/poscontrole/) as Android Developer;
- - Using ![Java](https://img.shields.io/badge/-JAVA-red?style=plastic&logo=java) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)  ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) ![enter image description here](https://img.shields.io/badge/-gitflow-05a698?&logo=git) ![GitKraken](https://img.shields.io/badge/-GitKraken-black?style=plastic&logo=gitkraken);
+ - At [POS Controle](https://www.linkedin.com/company/poscontrole/) as Android Developer Jr;
+ - Using ![Java](https://img.shields.io/badge/-JAVA-red?style=plastic&logo=java) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)  ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) ![enter image description here](https://img.shields.io/badge/-gitflow-05a698?&logo=git) ![GitKraken](https://img.shields.io/badge/-GitKraken-black?style=plastic&logo=gitkraken) ![Jenkins](https://img.shields.io/badge/-Jenkins-white?&logo=jenkins);
+
+ - At [UNICRED](https://www.linkedin.com/company/unicreddobrasil/) as Android Developer Pl;
+ - Using ![Kotlin](https://img.shields.io/badge/-Koltin-white?&logo=kotlin) ![Java](https://img.shields.io/badge/-JAVA-red?style=plastic&logo=java) ![Azure](https://img.shields.io/badge/-Azure-blue?&logo=azuredevops)  ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) ![enter image description here](https://img.shields.io/badge/-gitflow-05a698?&logo=git) ![Jenkins](https://img.shields.io/badge/-Jenkins-white?&logo=jenkins);
  
  ### :books: Learning:
  - ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin);
