@@ -1,4 +1,3 @@
-![githubbadge](https://img.shields.io/github/followers/IgorSt?style=social) <a href="https://www.linkedin.com/in/igoor-santos/">
  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Igor%20Santos-blue?style=flat&logo=linkedin"></a>
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorfrb15@gmail.com)](mailto:igorfrb15@gmail.com)
 
