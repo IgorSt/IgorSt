@@ -1,5 +1,5 @@
- <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Igor%20Santos-blue?style=flat&logo=linkedin"></a>
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorfrb15@gmail.com)](mailto:igorfrb15@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=mailto:igorfrb15@gmail.com)](mailto:igorfrb15@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://br.linkedin.com/in/igoor-santos)](https://br.linkedin.com/in/igoor-santos)
 
 ### 🙋‍♂️ I'm:
 - Android Developer native, work in Java and Kotlin
